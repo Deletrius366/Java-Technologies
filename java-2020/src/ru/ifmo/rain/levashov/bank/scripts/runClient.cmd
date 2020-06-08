@@ -1,0 +1,1 @@
+java -cp ../compiled ru/ifmo/rain/levashov/bank/Client georgii korneev 1234 5678 100

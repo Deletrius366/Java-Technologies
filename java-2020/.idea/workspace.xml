@@ -1,0 +1,1253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc18c3c1-564f-4351-95b6-42c01a037cfe" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/java_2020$Q.ic" NAME="Q Coverage Results" MODIFIED="1583068602246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/hello/Utils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/hello/HelloUDPNonblockingServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="75" column="40" selection-start-line="75" selection-start-column="40" selection-end-line="75" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/hello/HelloUDPServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/hello/HelloUDPNonblockingClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="37" column="29" lean-forward="true" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/run.cmd">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="118" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/tests/BankTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/RemotePerson.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/tests/Tests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/hello/HelloUDPClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/LocalAccount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getPackage</find>
+      <find>combine</find>
+      <find>Path.of</find>
+      <find>getClassMod</find>
+      <find>main</find>
+      <find>getPackageInfo(</find>
+      <find>getPackageInfo</find>
+      <find>Separator</find>
+      <find>&quot; &quot;</find>
+      <find>getArguments</find>
+      <find>@param</find>
+      <find>Body</find>
+      <find>tmpDir</find>
+      <find>sync</find>
+      <find>Note:</find>
+      <find>doTask</find>
+      <find>notifyAll</find>
+      <find>synchr</find>
+      <find>wait</find>
+      <find>j</find>
+      <find>joinAll</find>
+      <find>joinTh</find>
+      <find>notify</find>
+      <find>REG_PORT</find>
+      <find>System</find>
+      <find>socket closed</find>
+      <find>Socket is cloed</find>
+      <find>putInt</find>
+      <find>ByteBuffer</find>
+      <find>getBytes</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>getExecutableModifiers</replace>
+      <replace>getExecutableExceptions</replace>
+      <replace>SPACE</replace>
+      <replace>getExecutableArguments</replace>
+      <replace>@param</replace>
+      <replace>\m@param</replace>
+      <replace>\n@param</replace>
+      <replace>\n\r@param</replace>
+      <replace>path</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ru.ifmo.rain.levashov.implementor/src/module-info.java" />
+        <option value="$PROJECT_DIR$/run.sh" />
+        <option value="$PROJECT_DIR$/run2.cmd" />
+        <option value="$PROJECT_DIR$/out/production/ru.ifmo.rain.levashov.implementor/run.cmd" />
+        <option value="$PROJECT_DIR$/run2.bat" />
+        <option value="$PROJECT_DIR$/modules/ru.ifmo.rain.levashov.implementor/src/module-info.java" />
+        <option value="$PROJECT_DIR$/run.cmd" />
+        <option value="$PROJECT_DIR$/modules/ru.ifmo.rain.levashov.implementor/src/ru/ifmo/rain/levashov/implementor/Implementor.java" />
+        <option value="$PROJECT_DIR$/src/info/kgeorgiy/java/advanced/concurrent/Tester.java" />
+        <option value="$PROJECT_DIR$/src/info/kgeorgiy/java/advanced/info.kgeorgiy.java.advanced.mapper/info/kgeorgiy/java/advanced/mapper/Tester.java" />
+        <option value="$PROJECT_DIR$/src/info/kgeorgiy/java/advanced/student/Group.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/arrayset/ArraySet.java" />
+        <option value="$PROJECT_DIR$/src/info/kgeorgiy/java/advanced/student/StudentQuery.java" />
+        <option value="$PROJECT_DIR$/src/info/kgeorgiy/java/advanced/mapper/mapper/Tester.java" />
+        <option value="$PROJECT_DIR$/src/info/kgeorgiy/java/advanced/mapper/Tester.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/concurrent/IterativeParallelism.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/concurrent/ParallelMapperImpl.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/crawler/WebCrawler.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/Bank.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/RemotePerson.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/scripts/startServer.cmd" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/SimpleTest.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/AbstractPerson.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/Person.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/LocalPerson.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/Account.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/AbstractAccount.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/BankTests.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/RemoteBank.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/scripts/runClient.cmd" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/Server.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/Tests.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/Client.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/RemoteAccount.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/LocalAccount.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/scripts/build.cmd" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/scripts/runTests.cmd" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/scripts/runJUnit.cmd" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/tests/Tests.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/hello/HelloNonblockingServer.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/run.cmd" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/hello/HelloUDONonblockingClient.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/hello/IldarImplementor.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/Q.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/tests/BankTests.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/hello/HelloUDPClient.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/hello/Utils.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/hello/HelloUDPServer.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/hello/HelloUDPNonblockingServer.java" />
+        <option value="$PROJECT_DIR$/src/ru/ifmo/rain/levashov/hello/HelloUDPNonblockingClient.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="55" />
+    <option name="y" value="25" />
+    <option name="width" value="1865" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java-2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-2020" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-2020" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-2020" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-2020" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="levashov" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1591046204785" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.jest.jest_package" value="" />
+    <property name="nodejs.protractor.protractor_package" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\java-2020\artifacts" />
+      <recent name="D:\workspace\java-2020\src\info\kgeorgiy\java\advanced" />
+      <recent name="D:\workspace\java-2020" />
+      <recent name="D:\workspace\java-2020\out\production\ru.ifmo.rain.levashov.implementor" />
+      <recent name="D:\workspace\java-2020\src\ru\ifmo\rain\levashov" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.ifmo.rain.levashov.hello" />
+      <recent name="ru.ifmo.rain.levashov.implementor" />
+      <recent name="implementor" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\java-2020\src\ru\ifmo\rain\levashov\hello" />
+      <recent name="D:\workspace\java-2020\src\ru\ifmo\rain\levashov\bank" />
+      <recent name="D:\workspace\java-2020\out\production\java-2020" />
+      <recent name="D:\workspace\java-2020\artifacts" />
+      <recent name="D:\workspace\java-2020\src\info\kgeorgiy\java\advanced\hello" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Q">
+    <configuration name="Client" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.ifmo.rain.levashov.bank.Client" />
+      <module name="java-2020" />
+      <option name="PROGRAM_PARAMETERS" value="sem barner 228 1488 666" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.ifmo.rain.levashov.bank.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Implementor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.ifmo.rain.levashov.implementor.Implementor" />
+      <module name="java-2020" />
+      <option name="PROGRAM_PARAMETERS" value="Implemetor.class &quot;D:\\workspace\\java-2020\\out\\production\\java-2020\\dir&quot;" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.ifmo.rain.levashov.implementor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.ifmo.rain.levashov.Q" />
+      <module name="java-2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.ifmo.rain.levashov.bank.Server" />
+      <module name="java-2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.ifmo.rain.levashov.bank.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run.sh" type="BashConfigurationType" factoryName="Bash" temporary="true">
+      <module name="java-2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="PROJECT_INTERPRETER" value="false" />
+      <option name="WORKING_DIRECTORY" value="D:\workspace\java-2020" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\workspace\java-2020\run.sh" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="0" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BankTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.ifmo.rain.levashov.bank.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.ifmo.rain.levashov.bank.tests" />
+      <option name="MAIN_CLASS_NAME" value="ru.ifmo.rain.levashov.bank.tests.BankTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.ifmo.rain.levashov.bank.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.ifmo.rain.levashov.bank.tests" />
+      <option name="MAIN_CLASS_NAME" value="ru.ifmo.rain.levashov.bank.tests.Tests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.26" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.26" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt">
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Server" />
+      <item itemvalue="Application.Implementor" />
+      <item itemvalue="Application.Q" />
+      <item itemvalue="Bash.run.sh" />
+      <item itemvalue="JUnit.BankTests" />
+      <item itemvalue="JUnit.Tests" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.26" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Q" />
+        <item itemvalue="JUnit.Tests" />
+        <item itemvalue="JUnit.BankTests" />
+        <item itemvalue="Bash.run.sh" />
+        <item itemvalue="Application.Implementor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc18c3c1-564f-4351-95b6-42c01a037cfe" name="Default Changelist" comment="" />
+      <created>1581196228207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581196228207</updated>
+      <workItem from="1581196234034" duration="3980000" />
+      <workItem from="1581252959296" duration="10399000" />
+      <workItem from="1581349198530" duration="7202000" />
+      <workItem from="1581359993771" duration="1901000" />
+      <workItem from="1581367062285" duration="25000" />
+      <workItem from="1581409477877" duration="5766000" />
+      <workItem from="1581415310857" duration="1230000" />
+      <workItem from="1581705000270" duration="2086000" />
+      <workItem from="1581769391128" duration="13023000" />
+      <workItem from="1581861432485" duration="5770000" />
+      <workItem from="1581871591144" duration="855000" />
+      <workItem from="1581877959683" duration="418000" />
+      <workItem from="1581884309223" duration="962000" />
+      <workItem from="1581934715917" duration="797000" />
+      <workItem from="1581962369589" duration="5354000" />
+      <workItem from="1581980795616" duration="1056000" />
+      <workItem from="1582014803202" duration="6943000" />
+      <workItem from="1582380736586" duration="919000" />
+      <workItem from="1582381700321" duration="9344000" />
+      <workItem from="1582398035732" duration="2083000" />
+      <workItem from="1582468235006" duration="6091000" />
+      <workItem from="1582565860094" duration="1306000" />
+      <workItem from="1582619769839" duration="2249000" />
+      <workItem from="1582622086350" duration="4099000" />
+      <workItem from="1582657111260" duration="342000" />
+      <workItem from="1582834535739" duration="1061000" />
+      <workItem from="1582916940383" duration="1954000" />
+      <workItem from="1583064851602" duration="19503000" />
+      <workItem from="1583092537666" duration="66000" />
+      <workItem from="1583157276615" duration="8740000" />
+      <workItem from="1583223980473" duration="6452000" />
+      <workItem from="1583580743067" duration="8493000" />
+      <workItem from="1583599743631" duration="2424000" />
+      <workItem from="1583665358280" duration="1169000" />
+      <workItem from="1583683418973" duration="1037000" />
+      <workItem from="1583692273683" duration="704000" />
+      <workItem from="1583706388897" duration="2643000" />
+      <workItem from="1583757957064" duration="8956000" />
+      <workItem from="1583772734988" duration="15264000" />
+      <workItem from="1583789759591" duration="2468000" />
+      <workItem from="1583793062100" duration="3165000" />
+      <workItem from="1583828963169" duration="1789000" />
+      <workItem from="1584183264620" duration="6231000" />
+      <workItem from="1584191714438" duration="20000" />
+      <workItem from="1584193695871" duration="818000" />
+      <workItem from="1584200162544" duration="1303000" />
+      <workItem from="1584269065958" duration="4587000" />
+      <workItem from="1584402726694" duration="627000" />
+      <workItem from="1584431020974" duration="10545000" />
+      <workItem from="1584875470787" duration="6998000" />
+      <workItem from="1584885044757" duration="7506000" />
+      <workItem from="1584915220354" duration="1781000" />
+      <workItem from="1584919856051" duration="405000" />
+      <workItem from="1584960373582" duration="3242000" />
+      <workItem from="1584969863405" duration="1269000" />
+      <workItem from="1585034836424" duration="6172000" />
+      <workItem from="1585067348744" duration="592000" />
+      <workItem from="1585217308980" duration="66000" />
+      <workItem from="1585639982140" duration="3098000" />
+      <workItem from="1586111545546" duration="4926000" />
+      <workItem from="1586167532144" duration="4124000" />
+      <workItem from="1586186529956" duration="5148000" />
+      <workItem from="1586201381327" duration="5591000" />
+      <workItem from="1586244489615" duration="7252000" />
+      <workItem from="1586787360908" duration="1816000" />
+      <workItem from="1586792943899" duration="10334000" />
+      <workItem from="1586814347925" duration="4541000" />
+      <workItem from="1586850197654" duration="9079000" />
+      <workItem from="1587206935752" duration="1234000" />
+      <workItem from="1587390417397" duration="3021000" />
+      <workItem from="1587403345534" duration="3531000" />
+      <workItem from="1587455728241" duration="6323000" />
+      <workItem from="1587856193299" duration="92000" />
+      <workItem from="1589193017682" duration="11000" />
+      <workItem from="1589196732197" duration="3043000" />
+      <workItem from="1589205748872" duration="15667000" />
+      <workItem from="1589230843562" duration="590000" />
+      <workItem from="1589236909613" duration="5241000" />
+      <workItem from="1589268233711" duration="3689000" />
+      <workItem from="1589276734705" duration="403000" />
+      <workItem from="1589310176998" duration="646000" />
+      <workItem from="1589728804424" duration="3947000" />
+      <workItem from="1589734862249" duration="3000" />
+      <workItem from="1589788626118" duration="246000" />
+      <workItem from="1590789321530" duration="2707000" />
+      <workItem from="1590831688718" duration="3991000" />
+      <workItem from="1590845704295" duration="16821000" />
+      <workItem from="1590923259963" duration="10599000" />
+      <workItem from="1590936320258" duration="16883000" />
+      <workItem from="1591001577803" duration="1413000" />
+      <workItem from="1591016350545" duration="8874000" />
+      <workItem from="1591084233760" duration="3128000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Tests - 2020.05.12 at 02h 59m 39s.xml">
+      <configuration name="Tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tests - 2020.05.12 at 03h 00m 49s.xml">
+      <configuration name="Tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tests - 2020.05.12 at 03h 01m 40s.xml">
+      <configuration name="Tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tests - 2020.05.12 at 03h 02m 24s.xml">
+      <configuration name="Tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tests - 2020.05.12 at 03h 05m 01s.xml">
+      <configuration name="Tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tests - 2020.05.12 at 03h 06m 31s.xml">
+      <configuration name="Tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tests - 2020.05.12 at 03h 06m 44s.xml">
+      <configuration name="Tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tests - 2020.05.12 at 03h 07m 37s.xml">
+      <configuration name="Tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tests - 2020.05.12 at 03h 09m 17s.xml">
+      <configuration name="Tests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tests - 2020.05.17 at 18h 45m 43s.xml">
+      <configuration name="Tests" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="400262000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83027524" visible="true" weight="0.2946309" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Structure" order="5" sideWeight="0.16972478" side_tool="true" visible="true" weight="0.2946309" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3654391" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4986577" weight="0.29461756" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3753541" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932885" weight="0.5141643" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49463087" visible="true" weight="0.38243628" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5053691" side_tool="true" weight="0.5991501" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4986577" weight="0.24787535" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Application Servers" order="13" weight="0.3286119" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.3295302" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.3295302" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3295302" />
+      <window_info anchor="right" id="Leiningen" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="REPL" order="11" visible="true" weight="0.026174497" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/Client.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="bank" language="JAVA" />
+        <watch expression="((RemoteBank)bank).clients" custom="ru.ifmo.rain.levashov.bank.RemoteBank" />
+      </configuration>
+      <configuration name="Application">
+        <watch expression="bank" language="JAVA" />
+        <watch expression="b" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>b</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>bank</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/AbstractAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/AbstractPerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/LocalPerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/RemoteBank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="56" column="32" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#998#999#0" expanded="true" />
+            <element signature="e#1044#1045#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/artifacts/info.kgeorgiy.java.advanced.base.jar!/info/kgeorgiy/java/advanced/base/BaseTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/scripts/build.cmd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/scripts/runClient.cmd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="45" selection-start-column="45" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/scripts/startServer.cmd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="54" selection-start-column="54" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/scripts/runJUnit.cmd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="118" selection-start-line="8" selection-start-column="118" selection-end-line="8" selection-end-column="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/java-2020/ru/ifmo/rain/levashov/hello/HelloUDPNonblockingServer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/nio/channels/SelectionKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="279" column="4" selection-start-line="279" selection-start-column="4" selection-end-line="279" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/sun/nio/ch/DatagramChannelImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="583" selection-start-line="583" selection-end-line="583" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/scripts/runTests.cmd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="90" selection-start-line="8" selection-start-column="90" selection-end-line="8" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/nio/channels/DatagramChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="387" column="56" selection-start-line="387" selection-start-column="56" selection-end-line="387" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/sun/nio/ch/SelectionKeyImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/hello/IldarImplementor.java" />
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/RemoteAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="451" column="6" selection-start-line="451" selection-start-column="6" selection-end-line="451" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="833" selection-start-line="833" selection-end-line="833" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/jdk/internal/misc/Unsafe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="3549" column="22" selection-start-line="3549" selection-start-column="22" selection-end-line="3549" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/StringCoding.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="882" column="26" selection-start-line="882" selection-start-column="26" selection-end-line="882" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/nio/HeapByteBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="232" selection-start-line="232" selection-end-line="232" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/nio/CharBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="1575" column="22" selection-start-line="1575" selection-start-column="22" selection-end-line="1575" selection-end-column="22" />
+          <folding>
+            <element signature="e#43950#43951#0" expanded="true" />
+            <element signature="e#43979#43980#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="612" column="11" selection-start-line="612" selection-start-column="11" selection-end-line="612" selection-end-column="11" />
+          <folding>
+            <element signature="e#23035#23036#0" expanded="true" />
+            <element signature="e#23079#23080#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/nio/charset/Charset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="808" column="28" selection-start-line="808" selection-start-column="28" selection-end-line="808" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/jdk.internal.vm.compiler/org.graalvm.compiler.core.common/src/org/graalvm/compiler/core/common/type/IntegerStamp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="179" column="54" selection-start-line="179" selection-start-column="54" selection-end-line="179" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/nio/channels/Selector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="596" column="69" selection-start-line="596" selection-start-column="69" selection-end-line="596" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/nio/Buffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="451" column="18" lean-forward="true" selection-start-line="451" selection-start-column="18" selection-end-line="451" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/nio/ByteBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="1150" column="17" selection-start-line="1150" selection-start-column="17" selection-end-line="1150" selection-end-column="17" />
+          <folding>
+            <element signature="e#25696#25697#0" expanded="true" />
+            <element signature="e#25742#25743#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/info/kgeorgiy/java/advanced/hello/HelloClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/Q.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/tests/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/net/DatagramSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="1230" column="16" selection-start-line="1230" selection-start-column="16" selection-end-line="1230" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/io/BufferedReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="390" column="18" selection-start-line="390" selection-start-column="18" selection-end-line="390" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="530" column="30" selection-start-line="530" selection-start-column="30" selection-end-line="530" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="9057" column="26" selection-start-line="9057" selection-start-column="26" selection-end-line="9057" selection-end-column="26" />
+          <folding>
+            <element signature="e#356272#356273#0" expanded="true" />
+            <element signature="e#356347#356348#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/hello/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/hello/HelloUDPServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/tests/BankTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/RemotePerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/tests/Tests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/hello/HelloUDPClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/bank/LocalAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/hello/HelloUDPNonblockingClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="37" column="29" lean-forward="true" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/run.cmd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/ifmo/rain/levashov/hello/HelloUDPNonblockingServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="75" column="40" selection-start-line="75" selection-start-column="40" selection-end-line="75" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8 (2)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>java-2020</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8 (2)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>artifacts</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

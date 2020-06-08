@@ -1,0 +1,1 @@
+java -cp ../compiled ru/ifmo/rain/levashov/bank/Server
